@@ -1,4 +1,4 @@
-# DataMining_univesp_t2021
+# disciplina: Data Mining - Univesp turma:2021
 ## Disciplina Mineração de Dados - COM360 - Turma 002 - UNIVESP
 
 Esta disciplina é de 80 horas &nbsp;
