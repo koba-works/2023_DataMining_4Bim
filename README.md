@@ -2,6 +2,7 @@
 # disciplina: Data Mining - Univesp turma:2021
 ## Disciplina Mineração de Dados - COM360 - Turma 002 - UNIVESP
 
+# Índice 
 Esta disciplina é de 80 horas &nbsp;
 | data de início - semana: tema |
 | ----------- | ----------- |
@@ -13,3 +14,6 @@ Esta disciplina é de 80 horas &nbsp;
 | 06/11 - Semana 7: Detecção de anomalias |
 | 13/11 - Semana 8: Revisão |
 | 13/11 - Semana 9: Orientações para realização da prova |
+
+
+> :construction: Projeto em construção :construction:
