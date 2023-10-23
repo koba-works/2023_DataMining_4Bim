@@ -8,7 +8,7 @@ disciplina:
 </p>
 
 ## Disciplina Mineração de Dados - COM360 - Turma 002 - UNIVESP
-Esta é disciplina com carga horária de 80 horas estimadas. 
+Esta é disciplina com carga horária estimadas de 80 horas. 
 
 
 # Índice 
@@ -25,6 +25,17 @@ Esta é disciplina com carga horária de 80 horas estimadas.
 | 13/11| Semana 8 | Revisão |
 | 13/11| Semana 9 | Orientações para realização da prova |.
 
+
+# Bibliografias:
+
+## Semana 1
+Introdução à Mineração de Dados: Conceitos Básicos, Algoritmos e Aplicações (Leia as páginas 22 a 44 do capítulo 1) | Leandro Nunes de Castro e Daniel Gomes Ferrari
+Texto-base - Introdução a Big Data e Internet das Coisas (IoT) (Leia as páginas 123 a 132) | Izabelly Soares de Morais e outros
+### Aprofundando o tema - Semana 1 
+O que é Big Data? | Fábio dos Reis, Bóson Treinamentos
+KDD e Data Mining: mais do que apenas conceitos | Luiz P. Favero, itforum
+Dados Abertos para um dia a dia melhor | Núcleo de Informação e Coordenação do Ponto BR (NIC.br)
+Data Mining and Machine Learning
 
 
 <p align="center">
