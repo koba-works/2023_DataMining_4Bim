@@ -70,10 +70,52 @@ Apresentar um exemplo de uso de Árvores de Decisão.
 
 
 Semana 4 - Quiz - Videoaulas
+Pergunta 1
+A partir dos algoritmos descritos abaixo, escolha a alternativa que contém somente algoritmos de classificação supervisionada. 
 
+    I. K-médias (K-means). 
+    II. Naïve bayes. 
+    III. K-vizinhos mais próximos (K-NN). 
+    IV. Árvores de decisão. 
+	
+    I, II, III e IV.
+    II e III, apenas.
+    I, III e IV, apenas.
+    II, III e IV, apenas.
+    I e III, apenas.
 
-Quiz - Objeto Educacional - Semana 4
+Pergunta 2
+Qual das alternativas abaixo contém somente tipos de estrutura nos quais os diferentes algoritmos de classificação podem ser separados? 
 
+    Baseados em conhecimento, evolucionistas, conexionistas e determinísticos. 
+    Baseados em conhecimento, baseados em árvores, conexionistas e probabilísticos.
+    Baseados em função, baseados em árvores, conexionistas e evolucionistas.
+    Conexionistas, probabilísticos, evolucionistas e baseados em função.
+    Baseados em árvores, evolucionistas, baseados em função e determinísticos.
+
+Quiz - Objeto Educacional - Semana 4 - Para exercitar a leitura dos materiais-base 
+Pergunta 1
+Qual das alternativas abaixo contém os nomes dos tipos de erro mais importantes em classificação supervisionada? 
+
+    Erro de generalização e erro de amostragem.
+    Erro de tratamento e erro de amostragem.
+    Erro de representação e erro de generalização.
+    Erro de representação e erro de amostragem.
+    Erro de generalização e erro de tratamento.
+
+Pergunta 2
+Sobre o algoritmo uma regra (1R), escolha a alternativa que contém somente afirmações corretas.  
+
+    I. O algoritmo 1R costuma ter baixo custo computacional.  
+    II. O algoritmo 1R só permite a construção de uma única regra por atributo. 
+    III.O algoritmo 1R é usado para construir regras que testam um único atributo.  
+    IV. Cada atributo gera um conjunto diferente de regras. 
+
+    III e IV, apenas.
+    II, apenas.
+    I e II, apenas.
+    I e IV, apenas.
+    I, III e IV, apenas.
 
 Em síntese - Semana 4 
 Nesta semana, falamos sobre técnicas e algoritmos de classificação supervisionada. Vimos quais são as características da classificação supervisionada, falamos sobre métricas para avaliação dos resultados obtidos e sobre alguns dos principais algoritmos de classificação.
