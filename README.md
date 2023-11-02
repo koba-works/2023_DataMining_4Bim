@@ -1,5 +1,5 @@
 disciplina: 
-<h1 align="center"> Data Mining - Univesp - 4 bim 2023 - turma: CD2021 </h1>
+<h1 align="center"> Data Mining - Univesp - 4 bim 2023 - CD2021 </h1>
 
 <p align="center">
   :construction:
