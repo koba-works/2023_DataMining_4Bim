@@ -33,8 +33,12 @@ Para esta primeira semana de aula, sugerimos que você estude da seguinte forma:
     Responda ao fórum temático
     Estude os materiais de apoio para complementar os seus conhecimentos sobre o conteúdo da semana.
     Lembre-se de realizar a atividade avaliativa desta semana.
-
-
 Bons estudos!
 
+
+# Semana 1
+
+Introdução à Mineração de Dados: Conceitos Básicos, Algoritmos e Aplicações (Leia as páginas 22 a 44 do capítulo 1) | Leandro Nunes de Castro e Daniel Gomes Ferrari Texto-base - Introdução a Big Data e Internet das Coisas (IoT) (Leia as páginas 123 a 132) | Izabelly Soares de Morais e outros
+Aprofundando o tema - Semana 1
+O que é Big Data? | Fábio dos Reis, Bóson Treinamentos KDD e Data Mining: mais do que apenas conceitos | Luiz P. Favero, itforum Dados Abertos para um dia a dia melhor | Núcleo de Informação e Coordenação do Ponto BR (NIC.br) Data Mining and Machine Learning
 
