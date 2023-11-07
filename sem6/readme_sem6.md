@@ -80,7 +80,6 @@ Escolha a alternativa que apresenta a ordem correta dos passos principais do pro
     IV. Determinação dos conjuntos frequentes. 
     
 Alternativas: 
-
 <br>    II, I, IV e III <br/>
 <br>    I, IV, III e II <br/>
 <br>    III, I, IV e II <br/>
