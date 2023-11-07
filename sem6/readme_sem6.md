@@ -62,12 +62,13 @@ https://imasters.com.br/back-end/data-mining-na-pratica-regras-de-associacao
 Semana 6 - Quiz - Videoaulas
 Pergunta 1
 Sobre as bases de dados usadas em algoritmos de regras de associação, escolha a alternativa correta:
+
 Alternativas: 
-    Bases de dados não relacionais.
-    Bases de dados geolocalizados.
-    Bases de dados associativos.
-    Bases de dados com dados rotulados.
-    Bases de dados transacionais.
+   Bases de dados não relacionais.
+   Bases de dados geolocalizados.
+   Bases de dados associativos.
+   Bases de dados com dados rotulados.
+   Bases de dados transacionais.
 
 Pergunta 2
 Escolha a alternativa que apresenta a ordem correta dos passos principais do processo de geração de itens frequentes do algoritmo Apriori. 
