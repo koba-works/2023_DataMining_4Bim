@@ -6,19 +6,24 @@ Vamos conhecer as principais características da análise de associação e conh
 Por fim, vamos fazer um exercício prático usando um algoritmo de regras de associação.
 Ao final desta semana, você deverá ser capaz de:
 
-    conhecer os principais métodos de análise de associação;
-    entender como utilizar os métodos de análise de associação.
+   * conhecer os principais métodos de análise de associação;
+   * entender como utilizar os métodos de análise de associação.
 
 Desafio
+
 Imagine uma loja de departamento, física ou online, que vende centenas de produtos diferentes diariamente. Certamente há produtos que conseguimos imaginar uma relação direta. Por exemplo, a compra de lápis associada com a compra de borracha. Além disso, pode existir outras relações entre produtos aparentemente distintos, mas que na prática acontecem.
 Como fazemos para explorar e compreender possíveis relações entre uma grande quantidade de produtos em grandes bases de dados, contendo centenas de milhares ou mesmo milhões de transações? Escreva sua opinião no fórum temático.
 
 Revisitando Conhecimentos
+
 Nesta semana, vamos estudar o algoritmo FP-Growth, que usa estrutura de dados de árvore. Se necessário, reveja a videoaula sobre árvores da disciplina Algoritmos e Programação de Computadores II.
 
 Árvores | Univesp
+
 https://www.youtube.com/watch?v=xHFrkjKy11I
 Nesta videoaula, aprenderemos o conceito de árvores e suas variações, com aplicações e exemplos de como estruturas não-sequenciais podem ser usadas para resolver problemas complexos.
+
+
 Orientação de Estudo
 
 Para esta semana, sugerimos que você estude da seguinte forma:
@@ -57,7 +62,7 @@ https://imasters.com.br/back-end/data-mining-na-pratica-regras-de-associacao
 Semana 6 - Quiz - Videoaulas
 Pergunta 1
 Sobre as bases de dados usadas em algoritmos de regras de associação, escolha a alternativa correta:
-
+Alternativas: 
     Bases de dados não relacionais.
     Bases de dados geolocalizados.
     Bases de dados associativos.
@@ -71,7 +76,7 @@ Escolha a alternativa que apresenta a ordem correta dos passos principais do pro
     II. Critério de parada. 
     III. Contagem de suporte. 
     IV. Determinação dos conjuntos frequentes. 
-
+Alternativas: 
     II, I, IV e III
     I, IV, III e II
     III, I, IV e II
@@ -81,7 +86,7 @@ Escolha a alternativa que apresenta a ordem correta dos passos principais do pro
 Quiz - Objeto Educacional - Semana 6 - Para exercitar a leitura dos materiais-base
 Pergunta 1
 Escolha a alternativa que contém a definição correta de mineração de regras de associação: 
-
+Alternativas: 
     Técnica usada na predição de regras de classificação de objetos de uma base de dados.
     Técnica que define um conjunto de regras associadas umas às outras para classificar um conjunto de dados.
     Técnica usada na construção de relações sob a forma de regras entre itens de uma base de dados transacional.
@@ -94,7 +99,7 @@ Escolha a alternativa que apresenta a ordem correta dos passos principais do pro
     I. Determinação da lista de itens frequentes. 
     II. Função que insere itens na árvore (InsertTree). 
     III. Construção da árvore (FP-Tree). 
-
+Alternativas: 
     I, II e III
     I, III e II
     III, I e II
@@ -103,7 +108,7 @@ Escolha a alternativa que apresenta a ordem correta dos passos principais do pro
 
 Pergunta 3
 Sobre regras de associação, qual das alternativas abaixo está correta?
-
+Alternativas: 
     O suporte indica a frequência com que dois conjuntos de itens de uma regra aparecem no conjunto total de transações. 
     O suporte indica a frequência com que um conjunto de itens aparece no conjunto total de transações.
     A confiança indica a frequência com que um conjunto de itens aparece no conjunto total de transações.
