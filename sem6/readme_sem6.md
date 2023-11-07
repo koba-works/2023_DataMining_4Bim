@@ -64,11 +64,12 @@ Pergunta 1
 Sobre as bases de dados usadas em algoritmos de regras de associação, escolha a alternativa correta:
 
 Alternativas: 
-   Bases de dados não relacionais.
-   Bases de dados geolocalizados.
-   Bases de dados associativos.
-   Bases de dados com dados rotulados.
-   Bases de dados transacionais.
+
+    Bases de dados não relacionais.
+    Bases de dados geolocalizados.
+    Bases de dados associativos.
+    Bases de dados com dados rotulados.
+    Bases de dados transacionais.
 
 Pergunta 2
 Escolha a alternativa que apresenta a ordem correta dos passos principais do processo de geração de itens frequentes do algoritmo Apriori. 
@@ -77,7 +78,9 @@ Escolha a alternativa que apresenta a ordem correta dos passos principais do pro
     II. Critério de parada. 
     III. Contagem de suporte. 
     IV. Determinação dos conjuntos frequentes. 
+    
 Alternativas: 
+
     II, I, IV e III
     I, IV, III e II
     III, I, IV e II
