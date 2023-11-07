@@ -81,11 +81,11 @@ Escolha a alternativa que apresenta a ordem correta dos passos principais do pro
     
 Alternativas: 
 
-    II, I, IV e III
-    I, IV, III e II
-    III, I, IV e II
-    III, II, IV e I
-    IV, III, II e I
+<br>    II, I, IV e III <br/>
+<br>    I, IV, III e II <br/>
+<br>    III, I, IV e II <br/>
+<br>    III, II, IV e I <br/>
+<br>    IV, III, II e I <br/>
 
 Quiz - Objeto Educacional - Semana 6 - Para exercitar a leitura dos materiais-base
 Pergunta 1
