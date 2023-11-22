@@ -115,7 +115,7 @@ Escolha a alternativa que indica a ordem correta dos passos do processo de anál
     III. Apresentar os dados usando técnicas de visualização.
  		
 Alternativas:
-[ ] II, III e I, respectivamente.
+[ ] II, III e I, respectivamente.<div>
 [ ] I, II e III, respectivamente.
 [ ] I, III e II, respectivamente.
 [ ] II, I e III, respectivamente.
